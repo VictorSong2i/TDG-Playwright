@@ -1,0 +1,20 @@
+{
+  "name": "tdg-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "dependencies": {
+    "csv-parse": "^5.4.0",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "unzip-stream": "^0.3.1"
+  }
+}

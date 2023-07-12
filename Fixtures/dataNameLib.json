@@ -1,0 +1,32 @@
+{   
+    "Title": "personal_title",
+    "First name": "personal_firstName",
+    "Second name": "personal_secondName",
+    "Last Name": "personal_lastName",
+    "Full name": "personal_fullName",
+    "Date Of Birth": "personal_dob",
+    "Date Of Birth Formatted": "personal_dobFormatted",
+    "Driving Licence": "personal_name1DrivingLicence",
+    "National Insurance Number": "personal_nino",
+    "Start Date": "personal_startDate",
+    "Email Address": "personal_email",
+    "Mobile Number": "personal_mobileNumber",
+    "Gender": "personal_gender",
+    "Nationality": "personal_nationality",
+    "Employed": "personal_employed",
+
+    "Full Address": "residentialAddress_fullAddress",
+
+    "GP Location": "medical_gpLocation",
+    "GP Name": "medical_gpName",
+    "GP Name Title": "medical_gpNameTitle",
+    "GP Surname": "medical_gpSurname",
+    "GP Full Address": "medical_gpFullAddress",
+    "GP Middle Name": "medical_gpMiddleName",
+    "GP First Line": "medical_gpFirstLine",
+    "GP City": "medical_gpCity",
+    "GP County": "medical_gpCounty",
+    "GP Post Code": "medical_gpPostCode",
+    "Last Visit Date": "medical_lastVisitDate",
+    "Patient Ref No": "medical_patientRefNo"
+}
