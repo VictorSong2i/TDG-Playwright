@@ -16,7 +16,7 @@ You will need to run the following commands in terminal when you use vscode:
 >
 >npm install csv-parser
 
-`RunAll.spec.ts` runs tests 1-3 sequentially and will automatically update its CSV and JSON files accordingly to the test run. 
+`TDG Tests 1-3.spec.ts` runs tests 1-3 sequentially and will automatically update its CSV and JSON files accordingly to the test run. 
 
 **Test 1** generates 5 entries with the required fields saves and downlaods them and then unzips the folder into the downloads folder
 
@@ -28,7 +28,7 @@ You will need to run the following commands in terminal when you use vscode:
 + Personal date of birth
 + Medical GP's name
 
-Then it is re-uploaded onto the TDG website. (**CAUTION:** Currently TDG does not have ability to re-download it's contents as mentioned in [things to improve](#things-to-improve)).
+Then it is re-uploaded onto the TDG website. (**CAUTION:** Currently TDG does not have ability to re-download it's contents as mentioned below.
 
 ## Things to improve
 
